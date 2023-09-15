@@ -11,7 +11,7 @@ public class DrawTriangle {
             for (int j = 1; j <= i; j++) {
                 System.out.print("*");
             }
-            System.out.println(); // Új sor a sorok között
+            System.out.println();
         }
 
         scanner.close();
