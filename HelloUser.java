@@ -5,7 +5,7 @@ public class HelloUser {
         Scanner scanner = new Scanner(System.in);
 
         // Ask the user for their name
-        System.out.print("Please enter your name: ");
+        System.out.print("Add meg a neved: ");
         String name = scanner.nextLine();
 
         // Greet the user using their name
